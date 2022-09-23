@@ -1,0 +1,12 @@
+Requisitos funcionais 
+
+1. Despejar e misturar pó e água dentro do copo 
+2. Cadastrar usuários
+3. Armazenar os produtos dentro de reservatórios
+4. Ter conexão com a rede de água 
+5. A máquina dever dar opção de sabores ao usuário
+6. O copo dever ter um misturador
+7. O sistema dever se conectar com a rede de internet da academia 
+8. A máquina irá exigir uma autenticação do usuário durante a transação 
+9. Consultar saldo do usuário no database durante a transação
+10. A máquina irá se comunicar com o aplicativo de celular 
