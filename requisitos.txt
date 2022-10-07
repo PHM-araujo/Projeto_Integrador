@@ -10,3 +10,9 @@ Requisitos funcionais
 8. A máquina irá exigir uma autenticação do usuário durante a transação 
 9. Consultar saldo do usuário no database durante a transação
 10. A máquina irá se comunicar com o aplicativo de celular 
+
+Requisitos Não Funcionais
+- Definir lead time de todas as tarefas mecânicas/software
+- Peso suportado pelos contâineres
+- Forma de serviço (cobrança, copos etc.)
+- Controle de dosagem
