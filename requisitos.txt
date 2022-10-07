@@ -18,3 +18,4 @@ Requisitos Não Funcionais
 - Controle de dosagem
 - Custo de implementação
 - Limpeza?
+- Tensão de entrada
