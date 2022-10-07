@@ -19,3 +19,4 @@ Requisitos Não Funcionais
 - Custo de implementação
 - Limpeza?
 - Tensão de entrada
+- Mudança dinâmica de wi-fi
