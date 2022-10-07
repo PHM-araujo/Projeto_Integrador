@@ -16,3 +16,5 @@ Requisitos Não Funcionais
 - Peso suportado pelos contâineres
 - Forma de serviço (cobrança, copos etc.)
 - Controle de dosagem
+- Custo de implementação
+- Limpeza?
